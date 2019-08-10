@@ -1,2 +1,2 @@
 # CubeReact
-Test task with Cubejs and ReaactJs
+Test task with Cubejs and ReactJs
